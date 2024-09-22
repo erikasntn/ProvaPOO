@@ -1,0 +1,14 @@
+C:\Users\ERIKA\Desktop\estudos\fecap\Prova-POO\bin\Debug\net8.0\Prova-POO.exe
+C:\Users\ERIKA\Desktop\estudos\fecap\Prova-POO\bin\Debug\net8.0\Prova-POO.deps.json
+C:\Users\ERIKA\Desktop\estudos\fecap\Prova-POO\bin\Debug\net8.0\Prova-POO.runtimeconfig.json
+C:\Users\ERIKA\Desktop\estudos\fecap\Prova-POO\bin\Debug\net8.0\Prova-POO.dll
+C:\Users\ERIKA\Desktop\estudos\fecap\Prova-POO\bin\Debug\net8.0\Prova-POO.pdb
+C:\Users\ERIKA\Desktop\estudos\fecap\Prova-POO\obj\Debug\net8.0\Prova-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERIKA\Desktop\estudos\fecap\Prova-POO\obj\Debug\net8.0\Prova-POO.AssemblyInfoInputs.cache
+C:\Users\ERIKA\Desktop\estudos\fecap\Prova-POO\obj\Debug\net8.0\Prova-POO.AssemblyInfo.cs
+C:\Users\ERIKA\Desktop\estudos\fecap\Prova-POO\obj\Debug\net8.0\Prova-POO.csproj.CoreCompileInputs.cache
+C:\Users\ERIKA\Desktop\estudos\fecap\Prova-POO\obj\Debug\net8.0\Prova-POO.dll
+C:\Users\ERIKA\Desktop\estudos\fecap\Prova-POO\obj\Debug\net8.0\refint\Prova-POO.dll
+C:\Users\ERIKA\Desktop\estudos\fecap\Prova-POO\obj\Debug\net8.0\Prova-POO.pdb
+C:\Users\ERIKA\Desktop\estudos\fecap\Prova-POO\obj\Debug\net8.0\Prova-POO.genruntimeconfig.cache
+C:\Users\ERIKA\Desktop\estudos\fecap\Prova-POO\obj\Debug\net8.0\ref\Prova-POO.dll
